@@ -1,0 +1,32 @@
+## VSCode에서 Rest API TEST할 수 있는 도구
+https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
+> VS Code에서 Rest API를 Test해볼 수 있는 도구 Thunder Client - Visual Studio Marketplace
+---
+## 신입 백엔드 개발자 혼돈의 파일럿 프로젝트 돌아보기
+https://techblog.woowahan.com/7828/
+> 우아한형제들 기술블로그로 신입 백앤드 개발자가 파일럿 프로젝트를 해보면서 격었던 내용을 정리한 글. 백앤드를 지향하고 시작하시는 분들에게 먼저 겪었던 또는 앞으로 겪을 경험에 대한 글
+---
+## 회원시스템 이벤트기반 아키텍처 구축하기
+https://techblog.woowahan.com/7835/
+> 배민의 회원시스템의 초기 서비스 구조에서 트래픽규모가 커지고 연계서비스가 확장되면서 발생하는 장애를 백앤드 시스템에서 해결해 나간 과정을 정리한 글
+---
+## Facebook의 텍스트 에디터 라이브러리
+https://lexical.dev/
+> 기존의 사용중인 텍스트 에디터의 단점을 보완 개선한 새로운 텍스트 에디터 현재 점진적으로 Facebook의 서비스의 에디터를 새로운 lexical로 변경해 가는 중. 기존의 에디터에 대한 고민이 있다면 검토 해봐도 좋을 라이브러리입니다.
+---
+## 기존 무료였던 git툴로 현재는 부분유료로 변경된 Fork
+https://git-fork.com/
+> 이미 사용하는 개발자가 많지만 많은 요청에 의해 개선을 한 후 일부 유료로 정책을 체택했지만 아직 무료로 사용할 수 있는 툴
+---
+## 프로그래머를 위한 이름 짓는 원리
+https://green-labs.github.io/programmers-naming
+> 프로그램을 작성하다 보면 가장 힘들어 하는 부분 중 하나인 이름 짓기에 대한 글. 클래수명, 변수명, 함수명 등 프로그램을 하면서 이름짓기에 한번쯤 고민을 해봤다면 읽어보면 좋습니다.
+---
+## 시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | 요즘IT
+https://yozm.wishket.com/magazine/detail/1294/
+> 프론트엔드 업무에 대한 시니어 개발자의 생각과 개발자로서의 생각들을 작성한 글
+ ---
+## Reveal2021 - 쿠팡의 대규모 트래픽을 다루는 백앤드 전략
+https://www.youtube.com/watch?v=qzHjK1-07fI&ab_channel=CoupangReveal
+> 쿠팡의 수많은 요청들을 처리하는 방식과 초기 구성과 현재의 트래픽 처리를 위한 개선된 백앤드 구성에 대한 실무자들의 이야기
+---
